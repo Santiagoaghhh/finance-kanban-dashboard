@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Datos locales y respaldos
+data/*.xlsx
+data/backups/
+data/*.tmp
+.env*
